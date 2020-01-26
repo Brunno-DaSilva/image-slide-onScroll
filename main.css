@@ -103,7 +103,7 @@ body {
 
 .container p {
   font-family: "Titillium Web", sans-serif;
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   color: var(--dark-font-color-title);
   letter-spacing: 2px;
 }
@@ -116,24 +116,6 @@ body {
 }
 
 /*Added Started CSS*/
-
-html {
-  box-sizing: border-box;
-  background: #ffc600;
-  font-family: "helvetica neue";
-  font-size: 20px;
-  font-weight: 200;
-}
-
-body {
-  margin: 0;
-}
-
-*,
-*:before,
-*:after {
-  box-sizing: inherit;
-}
 
 h1 {
   margin-top: 0;
