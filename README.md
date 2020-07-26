@@ -12,4 +12,4 @@
 #100DaysOfCode Challange
 ```
 
-##### Demo: https://dasilvabrunotexas.github.io/image-slide-onScroll/
+### Demo: https://brunno-dasilva.github.io/image-slide-onScroll/
